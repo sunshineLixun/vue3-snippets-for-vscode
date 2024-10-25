@@ -2,8 +2,8 @@
     "name": "sjzy-vue3-snippets",
     "displayName": "sjzy-vue3-snippets",
     "description": "a vue3 snippets for vscode",
-    "version": "0.0.1",
-    "publisher": "sunshineLixun",
+    "version": "0.0.2",
+    "publisher": "sunshineLx",
     "icon": "assets/logo.png",
     "keywords": [
         "vue",
