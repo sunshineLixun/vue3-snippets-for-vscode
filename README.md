@@ -12,7 +12,7 @@
 
 ## 大概这样用
 
-<img src="https://cdn.jsdelivr.net/gh/sunshineLixun/vue3-snippets-for-vscode@master/assets/guide_1.1.gif?raw=true&version=1.1" style="zoom: 40%;" />
+<img src="https://cdn.jsdelivr.net/gh/sunshineLixun/vue3-snippets-for-vscode@master/assets/guide_1.1.gif?raw=true" style="zoom: 40%;" />
 
 # 特性
 
