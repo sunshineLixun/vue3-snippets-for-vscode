@@ -6,7 +6,7 @@
 
 输入 `setup` 一键创建模板
 
-<img src="https://cdn.jsdelivr.net/gh/sunshineLixun/vue3-snippets-for-vscode@master/assets/guide_1.1.gif?raw=true" style="zoom: 40%;" />
+<img src="https://cdn.jsdelivr.net/gh/sunshineLixun/vue3-snippets-for-vscode@master/assets/guide_1.2.gif?raw=true" style="zoom: 40%;" />
 
 **支持快速 console.log，方便调试**
 
