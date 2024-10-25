@@ -1,10 +1,10 @@
-# vue3-snippets-for-vscode
+# sjzy-vue3-snippets
 
 这是一个适配 Vue3 Api 的 snippets 插件
 
 **新增特性: 支持快速 console.log，方便调试**
 
--   输入 `clg` 一键开起 console，然后直接输入需要打印的变量即可。
+- 输入 `clg` 一键开起 console，然后直接输入需要打印的变量即可。
 
 <img src="https://cdn.jsdelivr.net/gh/wejectchen/vue3-snippets-for-vscode@master/assets/clg_guide.gif?raw=true" style="zoom: 30%;" />
 
@@ -27,9 +27,9 @@
 | scripte  |                   `<script setup lang="ts"></script>`                   |
 |  style   |                        `<style lang=""></style>`                        |
 |   css    |                        `<style scoped></style>`                         |
-|   scss   |                      `<style lang="scss"></style>`                      |
-|   Sass   |                      `<style lang="sass"></style>`                      |
-|   Less   |                      `<style lang="less"></style>`                      |
+|   scss   |                  `<style lang="scss" scoped></style>`                   |
+|   Sass   |                  `<style lang="sass" scoped></style>`                   |
+|   Less   |                  `<style lang="less" scoped></style>`                   |
 
 ### script&vue 片段
 

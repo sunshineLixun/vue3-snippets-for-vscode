@@ -1,9 +1,9 @@
 {
-    "name": "vue3-snippets-for-vscode",
-    "displayName": "vue3-snippets-for-vscode",
+    "name": "sjzy-vue3-snippets",
+    "displayName": "sjzy-vue3-snippets",
     "description": "a vue3 snippets for vscode",
-    "version": "0.0.35",
-    "publisher": "wejectchan",
+    "version": "0.0.1",
+    "publisher": "sunshineLixun",
     "icon": "assets/logo.png",
     "keywords": [
         "vue",
@@ -12,11 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/wejectchen/vue3-snippets-for-vscode"
-    },
-    "bugs": {
-        "url": "https://github.com/wejectchen/vue3-snippets-for-vscode/issues",
-        "email": "weject@gmail.com"
+        "url": "https://github.com/sunshineLixun/vue3-snippets-for-vscode"
     },
     "license": "MIT",
     "engines": {
