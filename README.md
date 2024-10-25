@@ -6,13 +6,13 @@
 
 - 输入 `clg` 一键开起 console，然后直接输入需要打印的变量即可。
 
-<img src="https://cdn.jsdelivr.net/gh/wejectchen/vue3-snippets-for-vscode@master/assets/clg_guide.gif?raw=true" style="zoom: 30%;" />
+<img src="https://cdn.jsdelivr.net/gh/sunshineLixun/vue3-snippets-for-vscode@master/assets/clg_guide.gif?raw=true" style="zoom: 30%;" />
 
 **注意** :本插件可能不完全适用于 vue2
 
 ## 大概这样用
 
-<img src="https://cdn.jsdelivr.net/gh/wejectchen/vue3-snippets-for-vscode@master/assets/guide.gif?raw=true" style="zoom: 40%;" />
+<img src="https://cdn.jsdelivr.net/gh/sunshineLixun/vue3-snippets-for-vscode@master/assets/guide.gif?raw=true" style="zoom: 40%;" />
 
 # 特性
 
